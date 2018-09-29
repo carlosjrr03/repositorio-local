@@ -6,5 +6,5 @@ function saludar(nombre)
 
 let saludo = saludar("Carlos");
 
-console.log(saludo);
+console.log("Nuevo saludo");
 
