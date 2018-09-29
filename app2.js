@@ -4,7 +4,7 @@ function saludar(nombre)
     return mensaje;
 }
 
-let saludo = saludar("Carlos");
+let saludo = saludar("Carlos rodriguez");
 
 console.log("Nuevo saludo");
 
